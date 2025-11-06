@@ -1,17 +1,10 @@
 # Portfolio
+Hello I am Jochrisse P. Aspilan |
+A CITCS student of the University of the Cordilleras 
 
-## Projects
-### Project 1
--Description
--Links
+# ABOUT ME
+I am passionate in coding and interested in learning more about programming,data analysis, and algorithms 
 
-### Project 2
--Description
--Links
 
-# Education
-University of the Cordilleras
 
-# Work History 
-Work place 1
-Work place 2
+
